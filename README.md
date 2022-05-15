@@ -4,7 +4,7 @@
   SDS Trilha Profissional - DevSuperior
 </h1>
 <p align="center">
-  Trilha Profissional do Evento Semana do Spring React.
+  Trilha Profissional do Evento Semana do Spring React #8.
 </p>
 <h1>
   Tecnologias
